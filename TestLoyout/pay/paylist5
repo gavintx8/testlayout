@@ -1,0 +1,1 @@
+{"status":"success","code":"1005","msg":"接口获取成功！","typeList":[{"paymentName":"CFZF","id":"439","amountlist":"101,201,301,401,501,601,701,801,901,1001","minquota":10,"maxquota":5000},{"paymentName":"YIZHI","id":"436","amountlist":"104,204,304,404,504,604,704,804,904,1004","minquota":30,"maxquota":3000}]}

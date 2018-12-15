@@ -1,0 +1,1 @@
+{"status":"success","code":"1005","msg":"接口获取成功！","typeList":[{"paymentName":"YHZF","id":"171","amountlist":"10,20,30,40,50,60,70,80,90,100,1000","minquota":100,"maxquota":5000},{"paymentName":"BL","id":"571","amountlist":"100,200,300,400,500,700,800,900,1000","minquota":10,"maxquota":10000},{"paymentName":"LMZF","id":"579","amountlist":"","minquota":10,"maxquota":5000}]}
